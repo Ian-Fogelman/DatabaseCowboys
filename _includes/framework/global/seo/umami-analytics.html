@@ -1,0 +1,11 @@
+
+
+{% if jekyll.environment == "production" %}
+    {% assign env_umami_data_domain = site.env.UMAMIANALYTICS_DATA_DOMAIN %}
+    {% assign env_umami_src = site.env.UMAMI_SRC %}
+    {% if env_umami_data_domain and env_umami_src %}
+        <script async defer src="{{ env_umami_src }}" data-website-id="{{ env_umami_data_domain }}"></script>
+    {% elsif site.analytics.umami_data_domain and site.analytics.umami_src %}
+        <script async defer src="{{ site.analytics.umami_data_domain }}" data-website-id="{{ site.analytics.umami_src }}"></script>
+    {% endif %}
+{% endif %}
