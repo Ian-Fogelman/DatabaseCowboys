@@ -5,7 +5,7 @@ date:   2019-10-07
 description: Overview of running Python scripts on a SQL Server 2017 instance!
 img: sq.jpg # Add image post (optional)
 tags: [Python,SQL,SSMS,Sql Server]
-thumbnail: "https://phorcys-static.ewg.org/image/contents/527913/medium.png?1579652510"
+# thumbnail: "https://phorcys-static.ewg.org/image/contents/527913/medium.png?1579652510"
 datatable: true
 author: Ian Fogelman # Add name author (optional)
 ---
