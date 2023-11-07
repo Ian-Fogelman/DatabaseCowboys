@@ -28,7 +28,7 @@ This is achieved by applying an abstract layer, aka GraphQL server layer between
 
 <br>
 <br>
-![RestGraphQL](/assets/img/RestGraphQL.PNG)
+![RestGraphQL](/assets/images/RestGraphQL.PNG)
 <br>
 <br>
 Now not all API's inheritly support graph QL, but there is an extensive list of example api's here : <a href="https://github.com/APIs-guru/graphql-apis" target="_blank">https://github.com/APIs-guru/graphql-apis</a> .

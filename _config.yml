@@ -56,7 +56,7 @@ defaults:
       layout: post
       weight: 999
   - scope:
-      path: "img"
+      path: "images"
     values:
       image: true
   - scope:

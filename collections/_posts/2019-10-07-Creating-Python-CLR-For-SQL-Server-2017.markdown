@@ -35,7 +35,7 @@ The main thing to be concerned with here under feature selection is to click the
 <br>
 <br>
 
-![Features](/assets/img/PythonS001.PNG)
+![Features](/assets/images/PythonS001.PNG)
 
 <br>
 <br>
@@ -53,7 +53,7 @@ RECONFIGURE WITH OVERRIDE;
 Once that is complete, a restart for the instance will need to be performed.
 <br>
 <br>
-![Restart](/assets/img/PythonS002.PNG)
+![Restart](/assets/images/PythonS002.PNG)
 <br>
 <br>
 
@@ -118,5 +118,5 @@ exec CountChars 'super fun sql'
 {% endhighlight %}
 <br>
 <br>
-![XImage](/assets/img/PythonS003.PNG)
+![XImage](/assets/images/PythonS003.PNG)
 

@@ -22,7 +22,7 @@ Once you follow the prompts and install you should to able to access to DQS clie
 
 <br>
 <br>
-![00](/assets/img/DQS00.PNG)
+![00](/assets/images/DQS00.PNG)
 
 <br>
 <br>
@@ -87,7 +87,7 @@ We will solve this using a DQS approach.
 First step is to create a knowledge base
 <br>
 <br>
-![1](/assets/img/DQS1.png)
+![1](/assets/images/DQS1.png)
 <br>
 <br>
 Create New Domain
@@ -96,19 +96,19 @@ Create New Domain
 Input a name and a description for your domain
 <br>
 <br>
-![2](/assets/img/DQS2.png)
+![2](/assets/images/DQS2.png)
 <br>
 <br>
 Next click domain rules and enter Length3 for name and add a rule of length equal to 3
 <br>
 <br>
-![X](/assets/img/DQSX.PNG)
+![X](/assets/images/DQSX.PNG)
 <br>
 <br>
 Click publish
 <br>
 <br>
-![3](/assets/img/DQS3.png)
+![3](/assets/images/DQS3.png)
 <br>
 <br>
 Now go to data quality projects, New Data Quality Project.
@@ -116,25 +116,25 @@ Now go to data quality projects, New Data Quality Project.
 Name the project and select the knowledge base created, for this project we will be cleansing.
 <br>
 <br>
-![4](/assets/img/DQS4.png)
+![4](/assets/images/DQS4.png)
 <br>
 <br>
 On the next screen match each field name with a domain, in this case we only have first name, click next.
 <br>
 <br>
-![5](/assets/img/DQS5.png)
+![5](/assets/images/DQS5.png)
 <br>
 <br>
 Click Start
 <br>
 <br>
-![6](/assets/img/DQS6.png)
+![6](/assets/images/DQS6.png)
 <br>
 <br>
 After the task is complete you can see how many rows of data passed and how many were invalid.
 <br>
 <br>
-![7](/assets/img/DQS7.png)
+![7](/assets/images/DQS7.png)
 <br>
 <br>
 On the following screen we can see which records failed, because the length of the first name field was not 3.
@@ -142,19 +142,19 @@ On the following screen we can see which records failed, because the length of t
 Which we originally stated in the criteria of the domain. You can approve and reject.
 <br>
 <br>
-![8](/assets/img/DQS8.png)
+![8](/assets/images/DQS8.png)
 <br>
 <br>
 On the last screen we can Export our results to a table in the database by defining the table name and clicking export.
 <br>
 <br>
-![9](/assets/img/DQS9.png)
+![9](/assets/images/DQS9.png)
 <br>
 <br>
 Once clicking finish , we can view the data in the Output table in the database we specificied to see the full results
 <br>
 <br>
-![0](/assets/img/DQS0.png)
+![0](/assets/images/DQS0.png)
 <br>
 <br>
 

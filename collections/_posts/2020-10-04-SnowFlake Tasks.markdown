@@ -26,7 +26,7 @@ CRON or CRONTAB is the Linux version of windows task schedule. It is extremely s
 <br>
 <br>
 
-![Model Results](/assets/img/CronMeta.PNG)
+![Model Results](/assets/images/CronMeta.PNG)
 
 <br>
 <br>
@@ -103,7 +103,7 @@ SELECT * FROM LOGTABLE
 <br>
 <br>
 
-![RESULTS](/assets/img/TASKQUERY.PNG)
+![RESULTS](/assets/images/TASKQUERY.PNG)
 
 <br>
 <br>

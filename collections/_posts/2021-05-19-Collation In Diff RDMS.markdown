@@ -69,7 +69,7 @@ Collation levels can be set at multiple levels, this is agnostic between RDMS bu
 
 <br>
 
-![Model Results](/assets/img/Collation.png)
+![Model Results](/assets/images/Collation.png)
 
 <br>
 

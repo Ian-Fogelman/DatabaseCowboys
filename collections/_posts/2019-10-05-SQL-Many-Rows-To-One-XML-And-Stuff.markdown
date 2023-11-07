@@ -14,13 +14,13 @@ author: Ian Fogelman # Add name author (optional)
 This question arose on the SO forum some months ago.
 <br>
 <br>
-![Before](/assets/img/Stuff1.PNG)
+![Before](/assets/images/Stuff1.PNG)
 <br>
 <br>
 The poster had a number of rows per UserID and wanted a result set of one row per userId with all the roles that would be associated to them.
 <br>
 <br>
-![After](/assets/img/Stuff2.PNG)
+![After](/assets/images/Stuff2.PNG)
 <br>
 <br>
 

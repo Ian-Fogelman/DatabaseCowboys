@@ -29,7 +29,7 @@ Here is an example of the table we will scrape:
 <br />
 <br />
 
-![](/assets/img/TableScrapeTable.PNG)
+![](/assets/images/TableScrapeTable.PNG)
 
 <br />
 <br />

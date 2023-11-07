@@ -64,7 +64,7 @@ Step 1 - Create the Anaconda Environment
 <br>
 <br>
 
-![](/assets/img/MCE1.png)
+![](/assets/images/MCE1.png)
 <br>
 <br>
 {% highlight Cmd %} 
@@ -77,7 +77,7 @@ conda create -name Python_36 python==3.6
 This creates a Anaconda virtual environment in the following directory: C:\Users\XXX\Anaconda3\envs
 <br>
 <br>
-![](/assets/img/MCE2.png)
+![](/assets/images/MCE2.png)
 <br>
 <br>
 
@@ -118,7 +118,7 @@ One called Python_36 and Python[conda env:Python_36]
 <br>
 <br>
 
-![](/assets/img/MCE3.png)
+![](/assets/images/MCE3.png)
 
 <br>
 <br>
@@ -131,7 +131,7 @@ Run the following command to get the version of Python running for that particul
 <br>
 <br>
 
-![](/assets/img/MCE4.png)
+![](/assets/images/MCE4.png)
 <br>
 <br>
 
@@ -149,7 +149,7 @@ Now create another Notebook under Python3 and run the same command.
 You should see the base Python version, in my case 3.7.6
 <br>
 <br>
-![](/assets/img/MCE5.png)
+![](/assets/images/MCE5.png)
 <br>
 <br>
 Optionally we may want to clean up unused kernels in both Jupyter notebooks and Anaconda.
@@ -181,7 +181,7 @@ Lastly we reviewed how to remove a Python environment if we no longer need it in
 
 On a closing note you can also view all the current environments and packages created from the command line in Anaconda navigator.
 
-![](/assets/img/MCE6.png)
+![](/assets/images/MCE6.png)
 
 
 

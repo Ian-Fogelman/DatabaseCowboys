@@ -27,13 +27,13 @@ Now go to your SQL server Management Studio interface, right click Databases.
 Select Attach Database.
 <br>
 <br>
-![](/assets/img/Restore1.PNG)
+![](/assets/images/Restore1.PNG)
 <br>
 <br>
 You will be prompted with the Attach Database dialogue box.
 <br>
 <br>
-![](/assets/img/Restore2.PNG)
+![](/assets/images/Restore2.PNG)
 <br>
 <br>
 Click Add... 
@@ -42,13 +42,13 @@ Click Add...
 Now Navigate to where you extracted the Adventure Works MDF file.
 <br>
 <br>
-![](/assets/img/Restore3.PNG)
+![](/assets/images/Restore3.PNG)
 <br>
 <br>
 You can remove the LDF from the file selection.
 <br>
 <br>
-![](/assets/img/Restore4.PNG)
+![](/assets/images/Restore4.PNG)
 <br>
 <br>
 The default location for mdf files are similar to :
@@ -67,10 +67,10 @@ Now Click Ok.
 Right click on databases and refresh, your new database should be in the database list now!
 <br>
 <br>
-![](/assets/img/Restore5.PNG)
+![](/assets/images/Restore5.PNG)
 <br>
 <br>
-![](/assets/img/Restore6.PNG)
+![](/assets/images/Restore6.PNG)
 <br>
 <br>
 The process is slightly different from a .bak file which I will cover in another blog post soon.

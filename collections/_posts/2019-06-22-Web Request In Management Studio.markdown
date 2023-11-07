@@ -105,7 +105,7 @@ As you can see in the print window we will have our response from the ISS, prett
 <br>
 
 
-![My helpful screenshot](/assets/img/WA001.PNG)
+![My helpful screenshot](/assets/images/WA001.PNG)
 
 
 <br>

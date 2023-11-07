@@ -56,26 +56,26 @@ First lets open powerBI,next get any dummy data you have and connect to it via c
 This data is not important because the real data will come from a pandas dataframe that we populate with our script.
 <br>
 <br>
-![](/assets/img/Pb1.PNG)
+![](/assets/images/Pb1.PNG)
 <br>
 <br>
 
 Next drag the python visual to the canvas of the report.
 <br>
 <br>
-![](/assets/img/Pb2.PNG)
+![](/assets/images/Pb2.PNG)
 <br>
 <br>
 You may be prompted to enabled scripting, click Enable.
 <br>
 <br>
-![](/assets/img/Pb3.PNG)
+![](/assets/images/Pb3.PNG)
 <br>
 <br>
 Now drag any data field to the values field while the Python visual is highted.
 <br>
 <br>
-![](/assets/img/Pb4.PNG)
+![](/assets/images/Pb4.PNG)
 <br>
 <br>
 Copy and paste the script to the code dialogue, you will need to ensure that each module is installed on your machine.
@@ -83,19 +83,19 @@ Copy and paste the script to the code dialogue, you will need to ensure that eac
 If you get errors just use pip to install the module it indicates as missing
 <br>
 <br>
-![](/assets/img/Pb4.PNG)
+![](/assets/images/Pb4.PNG)
 <br>
 <br>
 Click the run button, you should see the data pulled and displayed in your Python visual!
 <br>
 <br>
-![](/assets/img/Pb5.PNG)
+![](/assets/images/Pb5.PNG)
 <br>
 <br>
 The plot will be generated and displayed.
 <br>
 <br>
-![](/assets/img/Pb6.PNG)
+![](/assets/images/Pb6.PNG)
 
 
 

@@ -267,12 +267,12 @@ JOIN IRIS AS IR
 
 <br>
 <br>
-![Model Results](/assets/img/Iris Results.PNG)
+![Model Results](/assets/images/Iris Results.PNG)
 
 <br>
 <br>
 
-![Model Results](/assets/img/Python ML Results.PNG)
+![Model Results](/assets/images/Python ML Results.PNG)
 
 <br>
 <br>

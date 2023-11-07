@@ -21,7 +21,7 @@ author: Ian Fogelman # Add name author (optional)
 <br>
 <br>
 <br>
-<a href="https://github.com/Ian-Fogelman/ian-blog/raw/master/assets/img/Getting%20Started%20With%20AWS.zip" target="_blank">Full Project</a>
+<a href="https://github.com/Ian-Fogelman/ian-blog/raw/master/assets/images/Getting%20Started%20With%20AWS.zip" target="_blank">Full Project</a>
 <br>
 <br>
 

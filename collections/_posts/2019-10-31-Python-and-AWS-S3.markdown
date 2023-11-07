@@ -31,19 +31,19 @@ Once you have your API Client and secret,its time to create a bucket in S3.
 Once loged into your AWS console, search for S3.
 <br>
 <br>
-![S31](/assets/img/S31.PNG)
+![S31](/assets/images/S31.PNG)
 <br>
 <br>
 Next Click create bucket.
 <br>
 <br>
-![S32](/assets/img/S32.PNG)
+![S32](/assets/images/S32.PNG)
 <br>
 <br>
 Make a note of the bucket name, you may click next and you may leave all default options chosen for the purposes of this demo.
 <br>
 <br>
-![S33](/assets/img/S33.PNG)
+![S33](/assets/images/S33.PNG)
 <br>
 <br>
 Now that you have a client and secret, you can optionally store the keys in an envormental variable. This will allow you to reference the keys on your machine without hard coding the values.
