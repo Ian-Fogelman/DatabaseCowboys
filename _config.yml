@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "DatabaseCowboys "
+baseurl: "/DatabaseCowboys"
 url: "https://jekyll-advance.netlify.app"
 permalink: pretty
 markdown: kramdown
