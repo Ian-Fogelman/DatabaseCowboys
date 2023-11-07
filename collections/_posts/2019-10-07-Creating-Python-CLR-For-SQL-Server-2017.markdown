@@ -5,15 +5,10 @@ date:   2019-10-07
 description: Overview of running Python scripts on a SQL Server 2017 instance!
 img: sq.jpg # Add image post (optional)
 tags: [Python,SQL,SSMS,Sql Server]
-
+thumbnail: "https://phorcys-static.ewg.org/image/contents/527913/medium.png?1579652510"
 datatable: true
 author: Ian Fogelman # Add name author (optional)
 ---
-<meta property="og:title" content="Using Python scripts natively in SQL Server 2017">
-<meta property="og:description" content="A blog by Ian Fogelman.">
-<meta property="og:image" content="https://repository-images.githubusercontent.com/190807493/a3610e80-bed1-11e9-87ac-2a4f0aa3b2ee">
-<meta property="og:url" content="https://repository-images.githubusercontent.com/190807493/a3610e80-bed1-11e9-87ac-2a4f0aa3b2ee">
-
 <br>
 <br>
 In a recent blog post I covered how to get started with C# common language runtimes. I mentioned that the flavors available are C# and Visual basic, this technology began shipping with SQL Server 2005. 
