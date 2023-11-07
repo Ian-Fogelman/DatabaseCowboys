@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "/DatabaseCowboys"
+baseurl: "/"
 url: "https://databasecowboys.org/"
 permalink: pretty
 markdown: kramdown
