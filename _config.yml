@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/DatabaseCowboys"
-url: "https://jekyll-advance.netlify.app"
+url: "https://databasecowboys.org/"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
@@ -178,7 +178,7 @@ newsletter:
 contact_form: 
   use_netlify_form: true
   use_formspree_form: false
-  formspree_endpoint: https://formspree.io/f/moqyklqv
+  formspree_endpoint: https://formspree.io/f/mqkvjdga
   netlify_form_name: "contact"
 
 menu: 
