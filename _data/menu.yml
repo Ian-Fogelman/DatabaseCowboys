@@ -14,7 +14,7 @@ main:
         url: /services/branding/
       - name: "Web Design"
         url: /services/web-design/
-      - name: "Database Management"
+      - name: "Database Management "
         url: /services/database-management/
       - name: "Software Engineering"
         url: /services/software-engineering/
