@@ -10,8 +10,8 @@ main:
         url: /services/data-integration-and-etl/
       - name: "Datapipeline Orchestration"
         url: /services/data-pipeline-orchestration/
-      - name: "Branding"
-        url: /services/branding/
+      - name: "Scripting and Automation"
+        url: /services/scripting-and-automation/
       - name: "Web Design"
         url: /services/web-design/
       - name: "Database Management"

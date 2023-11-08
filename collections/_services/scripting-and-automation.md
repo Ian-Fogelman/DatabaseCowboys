@@ -1,5 +1,5 @@
 ---
-title: "Branding"
+title: "Scripting and Automation"
 description: "The expression of a brand including its name, trademark, and visual appearance."
 date: 2019-10-03
 weight: 3
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
+  heading: "Scripting and Automation"
   sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
   text_color: "#ffffff"
   background_color: ""
