@@ -16,8 +16,8 @@ main:
         url: /services/cloud-modernization/
       - name: "Database Management"
         url: /services/database-management/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
+      - name: "Technical Documentation"
+        url: /services/technical-documentation/
   - name: Projects
     url: /projects/
     weight: 2
