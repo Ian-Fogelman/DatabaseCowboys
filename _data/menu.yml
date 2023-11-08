@@ -8,8 +8,8 @@ main:
     child:
       - name: "Data Integration and ETL"
         url: /services/data-integration-and-etl/
-      - name: "UX"
-        url: /services/user-experience/
+      - name: "Datapipeline Orchestration"
+        url: /services/data-pipeline-orchestration/
       - name: "Branding"
         url: /services/branding/
       - name: "Web Design"

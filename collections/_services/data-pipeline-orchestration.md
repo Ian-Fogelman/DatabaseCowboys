@@ -1,5 +1,5 @@
 ---
-title: "User Experience"
+title: "Data Pipeline Orchestration"
 description: "Understanding the needs of the user and creating product solutions."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
@@ -10,7 +10,7 @@ image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
+  heading: "Data Pipeline Orchestration"
   sub_heading: "Understanding the needs of the user and creating product solutions."
   text_color: "#ffffff"
   background_color: ""
