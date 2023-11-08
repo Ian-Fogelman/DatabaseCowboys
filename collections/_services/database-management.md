@@ -1,5 +1,5 @@
 ---
-title: "SEO"
+title: "Database Management"
 description: "Improving search engine rankings through techincal on page SEO and content creation."
 date: 2021-07-23
 weight: 5

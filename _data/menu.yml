@@ -15,7 +15,7 @@ main:
       - name: "Web Design"
         url: /services/web-design/
       - name: "SEO"
-        url: /services/seo/
+        url: /services/database-management/
       - name: "Software Engineering"
         url: /services/software-engineering/
   - name: Projects
