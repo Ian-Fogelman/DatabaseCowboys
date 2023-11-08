@@ -1,5 +1,5 @@
 ---
-title: "Web Design"
+title: "Cloud Modernization"
 description: "Design beautiful modern websites using the Jamstack."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
+  heading: "Cloud Modernization"
   sub_heading: "Design beautiful modern websites using the Jamstack."
   text_color: "#ffffff"
   background_color: ""

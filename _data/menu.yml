@@ -12,8 +12,8 @@ main:
         url: /services/data-pipeline-orchestration/
       - name: "Scripting and Automation"
         url: /services/scripting-and-automation/
-      - name: "Web Design"
-        url: /services/web-design/
+      - name: "Cloud Modernization"
+        url: /services/cloud-modernization/
       - name: "Database Management"
         url: /services/database-management/
       - name: "Software Engineering"
