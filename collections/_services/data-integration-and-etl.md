@@ -5,7 +5,7 @@ date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-source-code-100.png"
+icon: "assets/images/icons/icons8-data-integration-100.png"
 thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
 image: "/assets/images/gen/services/service-1.webp"
 

@@ -5,7 +5,7 @@ date: 2021-07-23
 weight: 5
 header_transparent: true
 fa_icon: "far fa-chart-bar"
-icon: "assets/images/icons/icons8-bar-chart-100.png"
+icon: "assets/images/icons/icons8-database-administrator-100.png"
 thumbnail: "/assets/images/gen/services/service-5-thumbnail.webp"
 image: "/assets/images/gen/services/service-5.webp"
 

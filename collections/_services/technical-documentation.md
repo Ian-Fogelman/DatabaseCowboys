@@ -5,7 +5,7 @@ date: 2019-10-03
 weight: 6
 header_transparent: true
 fa_icon: "fab fa-codepen"
-icon: "assets/images/icons/icons8-merge-git-100.png"
+icon: "assets/images/icons/icons8-documentation-100.png"
 thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
 image: "/assets/images/gen/services/service-6.webp"
 
