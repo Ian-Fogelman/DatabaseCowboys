@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
 icon: "assets/images/icons/icons8-pipeline-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
+thumbnail: "/assets/images/wave.jpg"
 image: "/assets/images/wave.jpg"
 
 hero:
