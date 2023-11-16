@@ -6,7 +6,7 @@ weight: 2
 header_transparent: true
 icon: "assets/images/icons/icons8-pipeline-100.png"
 thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/wave.jpg" 
+image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/wave.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
