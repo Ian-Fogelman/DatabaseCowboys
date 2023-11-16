@@ -1,17 +1,17 @@
 ---
 title: "Data Pipeline Orchestration"
-description: "Understanding the needs of the user and creating product solutions."
+description: "Understanding the needs of the user and creating data solutions."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
 icon: "assets/images/icons/icons8-pipeline-100.png"
-thumbnail: "/assets/images/wave.jpg"
+thumbnail: "/assets/images/wave.webp"
 image: "/assets/images/wave.jpg"
 
 hero:
   enabled: true
   heading: "Data Pipeline Orchestration"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  sub_heading: "Understanding the needs of the user and creating data solutions."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
