@@ -6,7 +6,7 @@ weight: 2
 header_transparent: true
 icon: "assets/images/icons/icons8-pipeline-100.png"
 thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+image: "/assets/images/wave.jpg" #image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
