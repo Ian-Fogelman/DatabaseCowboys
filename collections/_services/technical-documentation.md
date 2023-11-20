@@ -6,8 +6,8 @@ weight: 6
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/icons8-documentation-100.png"
-thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
-image: "/assets/images/gen/services/service-6.webp"
+thumbnail: "/assets/images/technical-documentation.webp"
+image: "/assets/images/gen/technical-documentation.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-6.webp"
+  background_image: "/assets/images/technical-documentation.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
