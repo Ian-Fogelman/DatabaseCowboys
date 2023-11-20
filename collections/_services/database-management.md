@@ -16,7 +16,7 @@ hero:
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
+  background_image_blend_mode: false #"overlay" # "overlay", "multiply", "screen"
   background_image: "/assets/images/gen/services/service-5.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
