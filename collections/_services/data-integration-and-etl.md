@@ -6,8 +6,8 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-data-integration-100.png"
-thumbnail: "/assets/images/etl.webp"
-image: "/assets/images/etl.webp"
+thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
+image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/etl.webp"
+  background_image: "/assets/images/gen/services/service-1-large.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
