@@ -6,8 +6,8 @@ weight: 3
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-script-100.png"
-thumbnail: "/assets/images/scripting-and-automation2.webp"
-image: "/assets/images/scripting-and-automation2.webp"
+thumbnail: "/assets/images/scripting-and-automation.webp"
+image: "/assets/images/scripting-and-automation.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/scripting-and-automation2.webp"
+  background_image: "/assets/images/scripting-and-automation.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
