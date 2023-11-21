@@ -1,6 +1,6 @@
 ---
 title: "Data Pipeline Orchestration"
-description: "Understanding the needs of the user and creating data solutions."
+description: "Streamlining Your Data Workflow for Maximum Efficiency"
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -11,7 +11,7 @@ image: "/assets/images/wave.jpg"
 hero:
   enabled: true
   heading: "Data Pipeline Orchestration"
-  sub_heading: "Understanding the needs of the user and creating data solutions."
+  sub_heading: "Streamlining Your Data Workflow for Maximum Efficiency"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
