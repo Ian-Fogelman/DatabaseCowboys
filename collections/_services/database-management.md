@@ -1,6 +1,6 @@
 ---
 title: "Database Management"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
+description: "Transforming Data Challenges into Strategic Opportunities."
 date: 2021-07-23
 weight: 5
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/database-management.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  heading: "Database Management"
+  sub_heading: "Transforming Data Challenges into Strategic Opportunities."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
