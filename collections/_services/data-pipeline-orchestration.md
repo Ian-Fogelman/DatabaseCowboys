@@ -32,8 +32,6 @@ hero:
         style: "primary"
 ---
 
-# What is Data Pipeline Orchestration?
-
 Data pipeline orchestration is the process of designing, building, and managing a series of connected data processing steps to move, transform, and analyze data. These pipelines play a pivotal role in collecting, storing, and delivering data from various sources to the right destinations efficiently and reliably. Effective data pipeline orchestration enables organizations to harness the full potential of their data, making it accessible and actionable in real-time.
 
 # Our Approach
