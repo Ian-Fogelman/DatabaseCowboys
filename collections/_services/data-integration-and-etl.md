@@ -1,6 +1,6 @@
 ---
 title: "Data Integration and ETL"
-description: "Our experienced software engineers develop websites and desktop applications"
+description: "Bridging Data Gaps, Unleashing Business Potential"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
@@ -12,7 +12,7 @@ image: "/assets/images/etl.webp"
 hero:
   enabled: true
   heading: "Data Integration and ETL"
-  sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  sub_heading: "Bridging Data Gaps, Unleashing Business Potential"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -32,8 +32,6 @@ hero:
         outline: false
         style: "primary"
 ---
-
-Bridging Data Gaps, Unleashing Business Potential
 
 In the era of big data, the ability to seamlessly integrate and transform data is a critical driver of business success. Our Data Integration and ETL (Extract, Transform, Load) Consulting Services are designed to empower your organization by providing comprehensive solutions that turn disparate data sources into actionable insights. Whether you're facing challenges in consolidating data, optimizing workflows, or maximizing the value of your information, our expert consultants are ready to guide you through the process of creating a streamlined and efficient data ecosystem.
 
