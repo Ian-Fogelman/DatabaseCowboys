@@ -34,7 +34,8 @@ hero:
 ---
 
 In a rapidly evolving digital landscape, harnessing the full power of cloud technology is no longer a choice but a strategic imperative. Our Cloud Modernization Consulting Services are crafted to guide your organization through a seamless transition to the cloud, unlocking unparalleled scalability, flexibility, and innovation. Whether you're looking to migrate existing applications, optimize cloud infrastructure, or develop a cloud-native strategy, our expert consultants are here to empower your business for success in the modern era.
-Our Approach
+
+# Our Approach
 
 ## Cloud Readiness Assessment
 

@@ -36,6 +36,8 @@ hero:
 In a world driven by innovation and technological advancement, clear and comprehensive technical documentation is the cornerstone of successful projects. Our Technical Documentation Consulting Services are crafted to transform complexity into clarity, empowering your organization to communicate effectively, streamline processes, and achieve unparalleled project success. Whether you're developing software, hardware, or intricate systems, our expert consultants are here to guide you through the creation of documentation that exceeds industry standards.
 Our Approach
 
+# Our Approach
+
 ## Needs Assessment and Analysis
 
 We kick off our engagement by thoroughly understanding your project, product, or system. Our consultants work closely with your team to identify documentation requirements, target audience, and the specific technical details that need to be conveyed.
