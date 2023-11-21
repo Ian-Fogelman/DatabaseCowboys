@@ -33,8 +33,6 @@ hero:
         style: "primary"
 ---
 
-Database Management Services.
-
 In the fast-paced world of business, effective database management is the linchpin of success. At our Database Management Consulting Services, we bring a wealth of expertise to the table, helping your organization leverage its data assets to drive innovation, enhance efficiency, and gain a competitive edge. Our seasoned consultants work closely with you to understand your unique challenges, providing tailored solutions that empower your business to thrive in the data-driven era.
 
 # Our Approach
