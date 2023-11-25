@@ -49,9 +49,9 @@ footer_primary:
   - name: Projects
     url: /projects/
     weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
+  #- name: Team
+  #  url: /team/
+  #  weight: 4
 footer_secondary:
   - name: Blog
     url: /blog/
