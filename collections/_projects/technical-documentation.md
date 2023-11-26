@@ -1,6 +1,6 @@
 ---
 title: "Technical Documentation"
-description: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
+description: "Crafting top-notch technical documentation for clear user comprehension of project intricacies."
 date: 2018-12-20
 weight: 4
 header_transparent: false
@@ -10,8 +10,8 @@ client: "RGA Agency"
 
 hero:
   enabled: true
-  heading: "Clothing Range"
-  sub_heading: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
+  heading: "Technical Documentation"
+  sub_heading: "Crafting top-notch technical documentation for clear user comprehension of project intricacies."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
