@@ -22,7 +22,7 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Designing ETL Processes In Apache Airflow"
+      - name: "ETL Processes In Apache Airflow"
         url: /projects/designing-etl-processes-in-airflow/
       - name: "Special Edition"
         url: /projects/special-edition/
