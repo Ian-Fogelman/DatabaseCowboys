@@ -1,21 +1,21 @@
 ---
 title: "Designing ETL Processes In Airflow"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+description: "Redesigning manual processes to be scheduled Airflow jobs, which utalize custom Python code."
 date: 2018-12-20
 weight: 1
 header_transparent: false
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-1.webp"
+thumbnail: "/assets/images/airflow.png"
+image: "/assets/images/airflow.png"
 client: "Zero Developments Pty Ltd"
 
 hero:
   enabled: true
-  heading: "Book Design"
-  sub_heading: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
+  heading: "Designing ETL Processes In Airflow"
+  sub_heading: "Redesigning manual processes to be scheduled Airflow jobs, which utalize custom Python code."
   text_color: "#000000"
   background_color: ""
   background_gradient: false
-  background_image: "/assets/images/gen/projects/project-1-4.webp"
+  background_image: "/assets/images/airflow.png"
   background_image_blend_mode: false
   fullscreen_mobile: false
   fullscreen_desktop: false
