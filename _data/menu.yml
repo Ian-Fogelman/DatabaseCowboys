@@ -26,8 +26,8 @@ main:
         url: /projects/designing-etl-processes-in-airflow/
       - name: "Database Performance"
         url: /projects/database-performance/
-      - name: "Managing Cloud Infrastructure With Terraform"
-        url: /projects/managing-cloud-infra-with-terraform/
+      - name: "Cloud Infrastructure With Terraform"
+        url: /projects/cloud-infra-with-terraform/
       - name: "Technical Documentation"
         url: /projects/technical-documentation/
   - name: Blog
