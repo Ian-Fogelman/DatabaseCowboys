@@ -18,7 +18,7 @@ hero:
   background_image: "/assets/images/database-performance.webp"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   fullscreen_mobile: false
-  fullscreen_desktop: true
+  fullscreen_desktop: false
   buttons:
     enabled: false
     list:
