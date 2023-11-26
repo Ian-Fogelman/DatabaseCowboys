@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image: "/assets/images/technical-writer3.jpeg"
-  background_image_blend_mode: false
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen", "false"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: "600px"
