@@ -14,9 +14,9 @@ hero:
   sub_heading: "Re-invent the way your deploy cloud infrastructure."
   text_color: "#FFFFFF"
   background_color: ""
-  background_gradient: false
+  background_gradient: true
   background_image: "/assets/images/terraform.webp"
-  background_image_blend_mode: false
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: "600px"
