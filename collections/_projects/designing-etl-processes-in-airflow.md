@@ -14,7 +14,7 @@ hero:
   sub_heading: "Redesigning manual processes to be scheduled Airflow jobs, which utalize custom Python code."
   text_color: "#000000"
   background_color: ""
-  background_gradient: false
+  background_gradient: true
   background_image: "/assets/images/airflow.png"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   fullscreen_mobile: false
