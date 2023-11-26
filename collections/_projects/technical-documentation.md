@@ -14,7 +14,7 @@ hero:
   sub_heading: "Business impact we need to crystallize a plan churning anomalies dogpile that it's about managing expectations."
   text_color: "#FFFFFF"
   background_color: ""
-  background_gradient: false
+  background_gradient: true
   background_image: "/assets/images/technical-writer3.jpeg"
   background_image_blend_mode: false
   fullscreen_mobile: false
