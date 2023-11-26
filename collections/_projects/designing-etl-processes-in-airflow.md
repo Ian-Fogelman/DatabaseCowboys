@@ -1,5 +1,5 @@
 ---
-title: "Designing ETL Processes In Airflow"
+title: "ETL Processes In Airflow"
 description: "Redesigning manual processes to be scheduled Airflow jobs, which utalize custom Python code."
 date: 2018-12-20
 weight: 1
@@ -10,7 +10,7 @@ client: "Zero Developments Pty Ltd"
 
 hero:
   enabled: true
-  heading: "Designing ETL Processes In Airflow"
+  heading: "ETL Processes In Airflow"
   sub_heading: "Redesigning manual processes to be scheduled Airflow jobs, which utalize custom Python code."
   text_color: "#000000"
   background_color: ""
