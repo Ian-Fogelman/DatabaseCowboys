@@ -12,7 +12,7 @@ hero:
   enabled: true
   heading: "ETL Processes In Airflow"
   sub_heading: "Redesigning manual processes to be scheduled Airflow jobs, which utalize custom Python code."
-  text_color: "#000000"
+  text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
   background_image: "/assets/images/airflow.png"
