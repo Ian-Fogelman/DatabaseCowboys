@@ -1,6 +1,6 @@
 ---
 title: "Database Performance"
-description: "Experience a significant boost in efficiency and responsiveness with our database performance improvements, ensuring swift data access and a seamless user experience."
+description: "Experience a significant boost in efficiency and responsiveness with our database performance improvements."
 date: 2018-12-20
 weight: 3
 header_transparent: true
@@ -11,7 +11,7 @@ client: "Brisbane City Council"
 hero:
   enabled: true
   heading: "Database Performance"
-  sub_heading: "Experience a significant boost in efficiency and responsiveness with our database performance improvements, ensuring swift data access and a seamless user experience."
+  sub_heading: "Experience a significant boost in efficiency and responsiveness with our database performance improvements."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
