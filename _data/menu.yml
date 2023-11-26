@@ -24,8 +24,8 @@ main:
     child:
       - name: "ETL Processes In Apache Airflow"
         url: /projects/designing-etl-processes-in-airflow/
-      - name: "Special Edition"
-        url: /projects/special-edition/
+      - name: "Database Performance"
+        url: /projects/database-performance/
       - name: "Master System"
         url: /projects/master-system/
       - name: "Clothing Range"
