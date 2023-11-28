@@ -50,7 +50,7 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "Is Your Data a Wild West Showdown? \ 
+  heading: "Is Your Data a Wild West Showdown? \
   Let Us Tame the Chaos!"
   sub_heading: "Unlock the power of seamless data flow with the Database Cowboys. We not only master databases but excel in ETL, ensuring your data journey is not just efficient, but extraordinary."
   features:
