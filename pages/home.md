@@ -2,14 +2,14 @@
 layout: home
 permalink: "/"
 title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+description: "Database Cowboys, helping you wrangel the wild west frontier of your enteprise data."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Database Cowboys - Wrangling Data with the Database Cowboys!
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Database Cowboys"
+  sub_heading: "Database Cowboys, helping you wrangel the wild west frontier of your enteprise data."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -50,8 +50,8 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  heading: "Is Your Data a Wild West Showdown? Let Us Tame the Chaos!"
+  sub_heading: "Unlock the power of seamless data flow with the Database Cowboys. We not only master databases but excel in ETL, ensuring your data journey is not just efficient, but extraordinary."
   features:
     enabled: false
     list:
