@@ -4,8 +4,8 @@ description: "Redesigning manual processes to be scheduled Airflow jobs that use
 date: 2018-12-20
 weight: 1
 header_transparent: false
-thumbnail: "/assets/images/airflow.png"
-image: "/assets/images/airflow.png"
+thumbnail: "/assets/images/etl-processes.png"
+image: "/assets/images/etl-processes.png"
 client: "Zero Developments Pty Ltd"
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: "/assets/images/airflow.png"
+  background_image: "/assets/images/etl-processes.png"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen", "false"
   fullscreen_mobile: false
   fullscreen_desktop: false
