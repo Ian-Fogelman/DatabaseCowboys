@@ -15,7 +15,7 @@ hero:
   background_gradient: true
   background_image: "/assets/images/home-bg.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
-  fullscreen_mobile: true
+  fullscreen_mobile: false
   fullscreen_desktop: false
   height: "660px"
   buttons:
