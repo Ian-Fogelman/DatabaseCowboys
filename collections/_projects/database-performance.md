@@ -3,7 +3,7 @@ title: "Database Performance"
 description: "Experience a significant boost in efficiency and responsiveness with our database performance improvements."
 date: 2018-12-20
 weight: 3
-header_transparent: true
+header_transparent: false
 thumbnail: "/assets/images/database-performance-5.jpg"
 image: "/assets/images/database-performance-5.jpg"
 client: "Brisbane City Council"
