@@ -4,8 +4,8 @@ description: "Crafting top-notch technical documentation for clear user comprehe
 date: 2018-12-20
 weight: 4
 header_transparent: false
-thumbnail: "/assets/images/technical-writer-4.jpg"
-image: "/assets/images/technical-writer-4.jpg"
+thumbnail: "/assets/images/technical-writer-5.jpg"
+image: "/assets/images/technical-writer-5.jpg"
 client: "RGA Agency"
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: "/assets/images/technical-writer-4.jpg"
+  background_image: "/assets/images/technical-writer-5.jpg"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen", "false"
   fullscreen_mobile: false
   fullscreen_desktop: false
