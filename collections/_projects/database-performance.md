@@ -4,8 +4,8 @@ description: "Experience a significant boost in efficiency and responsiveness wi
 date: 2018-12-20
 weight: 3
 header_transparent: true
-thumbnail: "/assets/images/database-performance3.jpg"
-image: "/assets/images/database-performance3.jpg"
+thumbnail: "/assets/images/database-performance-4.jpg"
+image: "/assets/images/database-performance-4.jpg"
 client: "Brisbane City Council"
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: "/assets/images/database-performance3.jpg"
+  background_image: "/assets/images/database-performance-4.jpg"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
