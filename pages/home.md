@@ -9,7 +9,7 @@ meta_title: Database Cowboys - Wrangling Data with the Database Cowboys!
 hero:
   enabled: true
   heading: "Database Cowboys"
-  sub_heading: "Database Cowboys, helping you wrangel the wild west frontier of your enteprise data."
+  sub_heading: "Helping you wrangel the wild west frontier of your enteprise data."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
