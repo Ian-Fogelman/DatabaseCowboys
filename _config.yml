@@ -188,7 +188,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Database Cowboys"
-  footer_description: "Helping you wrangel the wild west frontier of your enteprise data."
+  footer_description: "Wrangling data with the Database Cowboys!"
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
