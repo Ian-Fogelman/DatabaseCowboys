@@ -69,9 +69,9 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 3
+  #- name: Buy Now
+  #  url: https://www.zerostatic.io/theme/jekyll-advance/
+  #  weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/
