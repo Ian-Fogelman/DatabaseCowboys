@@ -13,7 +13,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
-  background_image: "/assets/images/projects.jpg"
+  background_image: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
