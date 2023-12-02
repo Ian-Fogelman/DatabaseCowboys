@@ -4,8 +4,8 @@ description: "Re-invent the way your deploy cloud infrastructure."
 date: 2018-12-20
 weight: 2
 header_transparent: true
-thumbnail: "/assets/images/cloud-infra.jpg"
-image: "/assets/images/cloud-infra.jpg"
+thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+image: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 client: "Region of Valencia"
 
 hero:
@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: "/assets/images/cloud-infra.jpg"
+  background_image: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
