@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
+title: "Database Cowboys"
 description: "Database Cowboys, helping you wrangel the wild west frontier of your enteprise data."
 header_transparent: true
 meta_title: Database Cowboys - Wrangling Data with the Database Cowboys!
