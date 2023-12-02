@@ -36,7 +36,7 @@ grid:
   prevent_click: false
 
 intro:
-  enabled: false
+  enabled: true
   align: left
   image: false
   heading: "We are a full service digital agency"
