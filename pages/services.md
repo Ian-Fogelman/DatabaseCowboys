@@ -4,6 +4,7 @@ title: Services
 description: "A selection of our digital services"
 permalink: "/services/"
 header_transparent: true
+meta_title: Services
 
 hero:
   enabled: true
