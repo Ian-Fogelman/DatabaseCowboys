@@ -6,6 +6,7 @@ header_transparent: false
 permalink: "/about/"
 description: "Business plan hackathon handshake responsive web design."
 image: "/assets/images/gen/content/content-5.webp"
+meta_title: About
 
 hero:
   enabled: false

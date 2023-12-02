@@ -5,6 +5,7 @@ description: "Meet our dedicated team."
 permalink: "/team/"
 date: 2018-02-12T15:37:57+07:00
 header_transparent: true
+meta_title: Team
 
 hero:
   enabled: true

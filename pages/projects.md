@@ -5,6 +5,7 @@ title: Projects
 description: "A selection of our work and projects."
 permalink: "/projects/"
 header_transparent: true
+meta_title: Projects
 
 hero:
   enabled: true
