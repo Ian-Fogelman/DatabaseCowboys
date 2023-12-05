@@ -2,6 +2,9 @@
 layout: post
 title:  SQL Join Types
 categories: [SQL, SQL Server, Join Types]
+thumbnail: "/assets/images/join.png"
+authors: ["Ian Fogelman"]
+description: Explore the various types of joins, from INNER to OUTER, and unlock the potential to extract valuable insights by merging datasets.
 ---
 
 Howdy partner, today we are going to explore the different types of SQL joins.
