@@ -2,6 +2,8 @@
 layout: post
 title:  Getting Started With PySpark
 categories: [Python, SQL, Spark, PySpark]
+thumbnail: "/assets/images/Pyspark-Thumb.png"
+image: "/assets/images/Pyspark.png"
 ---
 Howdy partner, today we look at how to easily get started with PySpark.
 
