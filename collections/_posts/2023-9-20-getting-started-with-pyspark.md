@@ -4,6 +4,9 @@ title:  Getting Started With PySpark
 categories: [Python, SQL, Spark, PySpark]
 thumbnail: "/assets/images/Pyspark-Thumb.png"
 image: "/assets/images/Pyspark.png"
+authors: ["Ian Fogelman"]
+description: Faster website download speeds have been shown to increase visitor retention and loyalty and user satisfaction, especially for users with slow internet connections and those on mobile devices.
+comments: true
 ---
 Howdy partner, today we look at how to easily get started with PySpark.
 
