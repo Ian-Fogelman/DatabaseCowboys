@@ -3,7 +3,6 @@ layout: post
 title:  Downloading Remote Files with SCP
 categories: [AWS, EC2, SCP]
 thumbnail: "/assets/images/SCP-Thumb.png"
-image: "/assets/images/SCP.png"
 ---
 Today we look at how to pull files from your EC2 instance to your local machine using SCP.
 
