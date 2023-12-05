@@ -15,7 +15,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: "/assets/images/etl-processes.jpg"
+  background_image: "/assets/images/etl-processes2.jpg"
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen", "false"
   fullscreen_mobile: false
   fullscreen_desktop: false
