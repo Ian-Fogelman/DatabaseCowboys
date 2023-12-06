@@ -5,9 +5,9 @@ date:   2021-05-19
 description: 2021-05-19-Database Collations in Different RDMS
 img: sq.png # Add image post (optional)
 tags: [RDMS,SQL,Collation,SQL-Concepts]
-
 datatable: true
 author: Ian Fogelman # Add name author (optional)
+thumbnail: "/assets/images/Collation-Thumb.png"
 ---
 
 <meta property="og:title" content="Database Collations in Different RDMS">
