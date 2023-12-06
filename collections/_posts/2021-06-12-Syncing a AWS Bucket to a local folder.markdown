@@ -5,36 +5,18 @@ date:   2021-06-13
 description: 2021-06-13-Syncing an Entire S3 bucket to local
 img: AWS.png # Add image post (optional)
 tags: [AWS,S3]
-
 datatable: true
 author: Ian Fogelman # Add name author (optional)
+thumbnail: "/assets/images/S3.png"
 ---
-
-<meta property="og:title" content="Syncing an Entire S3 bucket to local">
-<meta property="og:description" content="A blog by Ian Fogelman.">
-<meta property="og:image" content="https://repository-images.githubusercontent.com/190807493/a3610e80-bed1-11e9-87ac-2a4f0aa3b2ee">
-<meta property="og:url" content="https://repository-images.githubusercontent.com/190807493/a3610e80-bed1-11e9-87ac-2a4f0aa3b2ee">
 
 <h3>Syncing an entire S3 bucket to your local machine</h3>
 
 Recently I knew for a fact that I would be loosing one of my AWS accounts and I had a specific bucket which held some files that were near and dear to my heart. I offloaded the files into S3 knowing that they would be safe and sound and would not cluster up any local storage on my PC. All said these particular files were large video files which came to a total of about 150 GB. 
-
-
-
-
-
 <br>
-
-
-
 <h3>Listing all available buckets to current account configured in the AWS CLI.</h3>
-
 <br>
-
 As a refresher, you can view all the S3 buckets you have by running the following command :
-
-
-
 <br>
 
 {% highlight cmd%}
