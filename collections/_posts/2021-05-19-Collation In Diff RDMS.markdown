@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Database Collations in Different RDMS
+title:  Database Collation
 date:   2021-05-19
 description: 2021-05-19-Database Collations in Different RDMS
 img: sq.png # Add image post (optional)
@@ -9,11 +9,6 @@ datatable: true
 author: Ian Fogelman # Add name author (optional)
 thumbnail: "/assets/images/Collation-Thumb.png"
 ---
-
-<meta property="og:title" content="Database Collations in Different RDMS">
-<meta property="og:description" content="A blog by Ian Fogelman.">
-<meta property="og:image" content="https://repository-images.githubusercontent.com/190807493/a3610e80-bed1-11e9-87ac-2a4f0aa3b2ee">
-<meta property="og:url" content="https://repository-images.githubusercontent.com/190807493/a3610e80-bed1-11e9-87ac-2a4f0aa3b2ee">
 
 <h3>Understanding Database Collation</h3>
 
