@@ -4,7 +4,7 @@ title:  Database Collation
 date:   2021-05-19
 description: An overview of database collation, how to set it and what it does.
 img: sq.png # Add image post (optional)
-caregories: [SQL,Collation,Concepts]
+categories: [SQL,Collation,Concepts]
 datatable: true
 author: Ian Fogelman # Add name author (optional)
 thumbnail: "/assets/images/Collation-Thumb.png"
