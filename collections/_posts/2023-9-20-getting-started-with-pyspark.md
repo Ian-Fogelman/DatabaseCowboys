@@ -4,7 +4,7 @@ title:  Getting Started With PySpark
 categories: [Python, SQL, Spark, PySpark]
 thumbnail: "/assets/images/Pyspark-thumb.png"
 authors: ["Ian Fogelman"]
-description: Delve into the world of distributed data processing and discover how PySpark, with its Python API for Apache Spark, brings efficiency and scalability to big data analytics.
+description: Explore PySpark with its Python API for Apache Spark, brings efficiency and scalability to big data analytics.
 comments: true
 ---
 Howdy partner, today we look at how to easily get started with PySpark.
