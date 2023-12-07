@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  Syncing an Entire S3 bucket to local
+title:  Syncing an S3 bucket to local
 date:   2021-06-13
-description: 2021-06-13-Syncing an Entire S3 bucket to local
-img: AWS.png # Add image post (optional)
-tags: [AWS,S3]
+description: Tutorial showing you how to use the AWS CLI to sync an entire S3 bucket to your local work station.
+categories: [AWS,S3]
 datatable: true
 author: Ian Fogelman # Add name author (optional)
 thumbnail: "/assets/images/S3.png"
