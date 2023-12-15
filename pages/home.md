@@ -2,14 +2,14 @@
 layout: home
 permalink: "/"
 title: "Database Cowboys"
-description: "Database Cowboys, helping you wrangel the wild west frontier of your enteprise data."
+description: "Database Cowboys, helping you wrangel the wild west frontier of your enterprise data."
 header_transparent: true
 meta_title: Database Cowboys - Wrangling Data with the Database Cowboys!
 
 hero:
   enabled: true
   heading: "Database Cowboys"
-  sub_heading: "Helping you wrangel the wild west frontier of your enteprise data."
+  sub_heading: "Helping you wrangel the wild west frontier of your enterprise data."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
