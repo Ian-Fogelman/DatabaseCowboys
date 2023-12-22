@@ -40,13 +40,9 @@ This project was an orchestration of several data centric tasks that were curren
 
 - Apache Airflow
 - Python
-- Python Modules
-  - Requests
-  - SQLAlchemy
-  - Pandas
-  - Paramiko
-  - OS
-  - JSON
+- SFTP
+- JSON
+- REST
 
 # Project Details
 
