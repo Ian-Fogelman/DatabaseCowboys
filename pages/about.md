@@ -25,25 +25,6 @@ hero:
         size: large
 ---
 
-Welcome to Database Cowboys, where we wrangle data with precision, finesse, and a touch of technological wizardry. As trailblazers in the realm of data integration, ETL (Extract, Transform, Load), cloud modernization, automation, and technical documentation, we are not just a company; we're the pioneers of a data-driven frontier.
-
-Our Expertise:
-
-**Data Integration**:
-At Database Cowboys, we understand that the strength of any organization lies in its ability to seamlessly integrate data from diverse sources. Our team of seasoned professionals crafts robust data integration solutions, ensuring that your data flows harmoniously, unlocking valuable insights and propelling your business forward.
-
-**ETL Mastery**:
-Extract, Transform, Load—our ETL expertise is the backbone of efficient data processing. Whether it's transforming raw data into actionable intelligence or ensuring the smooth flow of information between systems, our ETL solutions are finely tuned to meet the unique demands of your data landscape.
-
-**Cloud Modernization**:
-Embrace the future with our cutting-edge cloud modernization services. We guide you through the journey of migrating, optimizing, and modernizing your data infrastructure in the cloud, ensuring scalability, security, and performance that meets the demands of the digital age.
-
-**Automation Excellence**:
-Efficiency is at the core of what we do. With our automation solutions, we liberate your team from repetitive tasks, allowing them to focus on innovation. From routine data workflows to complex processes, our automation strategies elevate your operations to new heights.
-
-**Technical Documentation Precision**:
-In the world of data, clarity is key. Our technical documentation services ensure that every process, integration, and transformation is meticulously documented. This not only aids in smooth operations but also empowers your team with the knowledge they need to harness the full potential of your data ecosystem.
-
 Why Choose Database Cowboys?
 
 ## Innovation at the Core: 
