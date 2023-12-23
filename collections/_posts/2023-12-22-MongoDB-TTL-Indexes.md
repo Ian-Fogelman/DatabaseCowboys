@@ -2,7 +2,7 @@
 layout: post
 title:  TTL Indexes in MongoDB
 categories: [MongoDB, ]
-thumbnail: "/assets/images/MongoDB-Thumb.png"
+thumbnail: "/assets/images/MongoDB-Thumb.svg"
 description: Explore the MongoDB TTL index which allows your server to automatically purge old data. 
 ---
 
