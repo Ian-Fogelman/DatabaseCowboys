@@ -3,7 +3,7 @@ layout: post
 title:  TTL Indexes in MongoDB
 categories: [MongoDB, ]
 thumbnail: "/assets/images/MongoDB-Thumb.png"
-description: Explore the MongoDB TTL index which allows the server to automatically purge old data. 
+description: Explore the MongoDB TTL index which allows your server to automatically purge old data. 
 ---
 
 MongoDB is the leading enterprise NoSQL database in the industry.
