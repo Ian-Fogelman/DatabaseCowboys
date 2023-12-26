@@ -10,6 +10,7 @@ MongoDB is the leading enterprise NoSQL database in the industry.
 Lets take a look at an interesting MongoDB feature, the Time to Live (TTL) Index.
 This type of index allows you to specify a time, either seconds after a time stamp field or an exact clock date to expire (delete) a record.
 Reasons to do this vary widly but a couple use cases include:
+
 | Use Case      | Description |
 | ----------- | ----------- |
 | Data Retention      | A timestamp could include the last login date of a user. After 6 years of no activity the TTL index removes user records.        |
