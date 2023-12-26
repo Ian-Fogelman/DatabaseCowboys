@@ -15,6 +15,7 @@ Reasons to do this vary widly but a couple use cases include:
 | ----------- | ----------- |
 | Data Retention      | A timestamp could include the last login date of a user. After 6 years of no activity the TTL index removes user records.        |
 | Application Logic   | A record in the database represents discount codes for a retail store. After a certain date the discount is no longer valid and is deleted by the TTL index.        |  
+
 The example in this post is a queueing system that utilizes MongoDB TTL indexes to expire documents older than 60 seconds.
 The expectation is that the application is checking the queue collection, looking for records to process and deleting them one the processing has began. If any record exists for longer than 60 seconds, it is considered out of scope for the time sensitive requirements of the application and is deleted by the TTL index. This keeps the queue open for valid requests.
 Use the following Python code to import libraries to work with this example:
