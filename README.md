@@ -5,5 +5,7 @@ Repo for [Database Cowboys](https://databasecowboys.org/) hosted with [GithubPag
 # Details
 
 Blog: https://databasecowboys.org/blog/
+
 RSS Feed: https://databasecowboys.org//feed.xml
+
 About: https://databasecowboys.org/about/
