@@ -96,7 +96,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  sub_heading: "Take the first step towards success, contact us today to schedule your complimentary consultation!"
   features:
     enabled: false
     list:
