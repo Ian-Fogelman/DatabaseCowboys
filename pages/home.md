@@ -2,9 +2,9 @@
 layout: home
 permalink: "/"
 title: "Database Cowboys"
-description: "Database Cowboys, helping you wrangel the wild west frontier of your enterprise data."
+description: "The Database Cowboys are a team of database expert consultants that that can help wrangle the wild west frontier of your enterprise data."
 header_transparent: true
-meta_title: Database Cowboys - Wrangling Data with the Database Cowboys!
+meta_title: Database Cowboys - Helping you wrangel the wild west frontier of your enterprise data.
 
 hero:
   enabled: true
