@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Services
-description: "A selection of our digital services"
+description: "A selection of data services the Database Cowboys can provide to you."
 permalink: "/services/"
 header_transparent: true
 meta_title: Services

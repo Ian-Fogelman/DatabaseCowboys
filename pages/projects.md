@@ -2,7 +2,7 @@
 layout: list
 collection: "projects"
 title: Projects
-description: "A selection of our work and projects."
+description: "A selection of data projects delivered by the Database Cowboys to previous clients."
 permalink: "/projects/"
 header_transparent: true
 meta_title: Projects
