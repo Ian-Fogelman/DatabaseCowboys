@@ -2,7 +2,7 @@
 layout: post
 title:  Syncing an S3 bucket to local
 date:   2021-06-13
-description: Tutorial showing you how to use the AWS CLI to sync an entire S3 bucket to your local work station.
+description: This tutorial teaches you how to use the AWS CLI to sync an entire S3 bucket to your local work station.
 categories: [AWS,S3]
 datatable: true
 author: Ian Fogelman # Add name author (optional)
