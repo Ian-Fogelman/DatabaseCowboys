@@ -46,12 +46,14 @@ cd C:\Test
 aws s3 sync s3://MyTargetBucket .
 {% endhighlight %}
 
----
-**NOTE**
 
-When you run this command you may be flooded with messages into your command line interface, but it will look similar to this:
+When you run this command you may be flooded with messages into your command line interface.
 These messages give you an indication of the process of the sync and exactly which files in the batch are being moved over.
----
+
+<div class="alert alert-block alert-info">
+<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
+If it’s a note, you don’t have to include the word “Note”.
+</div>
 
 ![S3 Results](\assets\images\AWS_S3_Sync_EX.PNG)
 
