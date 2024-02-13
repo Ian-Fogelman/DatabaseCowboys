@@ -21,6 +21,12 @@ aws s3api list-buckets
 
 {% endhighlight %}
 
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
+
 ### Viewing the Total Size and Number of Objects in a Bucket
 
 To view the total size and number of objects in a bucket, navigate to the ``Metrics`` tab of your specific 
