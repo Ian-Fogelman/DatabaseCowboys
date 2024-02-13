@@ -25,7 +25,7 @@ aws s3api list-buckets
 
 ### Viewing the Total Size and Number of Objects in a Bucket
 
-To view the total size and number of objects in a bucket, navigate to the "Metrics" tab of your specific 
+To view the total size and number of objects in a bucket, navigate to the ``Metrics`` tab of your specific 
 bucket and you will be able to view this data:
 
 ![S3 Metrics](\assets\images\S3_Metrics.PNG)
@@ -52,10 +52,17 @@ aws s3 sync s3://MyTargetBucket .
 **NOTE**
 
 When you run this command you may be flooded with messages into your command line interface, but it will look similar to this:
-
+These messages give you an indication of the process of the sync and exactly which files in the batch are being moved over.
 ---
 
 ![S3 Results](\assets\images\AWS_S3_Sync_EX.PNG)
 
-Giving you an indication of the process of the sync and exactly which files in the batch are being moved over.
+### Conclusion
+
 And that's it, when the command is done, you will have all the files in that S3 bucket on your local machine!
+
+In this blog post we learned how to: 
+
+- List the buckets available with the ``aws s3api list-buckets`` command.
+- View the size of objects stored in a bucket with the AWS console.
+- Sync an entire S3 bucket to your local file system with the ``aws s3 sync`` command.
