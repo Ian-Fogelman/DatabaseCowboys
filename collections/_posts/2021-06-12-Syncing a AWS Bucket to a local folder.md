@@ -40,7 +40,7 @@ For this example I created a folder on my ``C/:`` called ``Test`` which will be 
 
 Open your command line and change the working directory and 
 execute the ``aws s3 sync`` command with the target s3 bucket you want to pull files from. The ``.`` in this context 
-specifies to pull all remote files to the current directory, in this case ``C:\Test``.
+specifies to pull all remote files to the current directory:
 
 
 {% highlight cmd%}
