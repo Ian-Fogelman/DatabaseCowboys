@@ -9,8 +9,6 @@ author: Ian Fogelman # Add name author (optional)
 thumbnail: "/assets/images/S3.png"
 ---
 
-### Syncing an Entire S3 bucket to Your Local Machine
-
 Recently I knew for a fact that I would be loosing one of my AWS accounts and I had a specific bucket which held some files that were near and dear to my heart. I offloaded the files into S3 knowing that they would be safe and sound and would not cluster up any local storage on my PC. All said these particular files were large video files which came to a total of about 150 GB. 
 
 ### Listing All Available Buckets in the AWS CLI
