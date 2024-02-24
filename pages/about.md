@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Core values of the database cowboys."
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/core-values.jpg"
 meta_title: About
 
 hero:
@@ -34,7 +34,7 @@ We believe in the power of collaboration. Your goals are our goals, and we work 
 
 ## Proven Expertise
 With a team of seasoned data professionals and a track record of successful projects, Database Cowboys brings a wealth of expertise to every engagement.
-![image info](https://databasecowboys.org/assets/images/certification-scroll.gif)
+![image info](https://databasecowboys.org/assets/images/certification-scroll3.gif)
 
 ## End-to-End Solutions
 From the initial stages of data integration to ongoing support and optimization, we offer comprehensive, end-to-end solutions to ensure the success of your data initiatives.
