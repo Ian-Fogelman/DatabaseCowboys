@@ -5,7 +5,8 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Core values of the database cowboys."
-image: "/assets/images/gen/content/content-5.webp"
+#image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/certification-scroll.gif"
 meta_title: About
 
 hero:
