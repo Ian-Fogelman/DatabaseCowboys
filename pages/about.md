@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Core values of the database cowboys."
-image: "/assets/images/certification-scroll.gif"
+image: "/assets/images/gen/content/content-5.webp"
 meta_title: About
 
 hero:
@@ -24,6 +24,10 @@ hero:
         fa_icon: false
         size: large
 ---
+
+## Expertise
+
+![image info](https://databasecowboys.org/assets/images/certification-scroll.gif)
 
 ## Innovation at the Core
 We thrive on pushing the boundaries of what's possible. Our commitment to innovation ensures that your data solutions are not just current but are poised to meet the challenges of tomorrow.
