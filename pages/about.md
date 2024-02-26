@@ -24,16 +24,15 @@ hero:
         size: large
 ---
 
+## Proven Expertise
+With a team of seasoned data professionals and a track record of successful projects, Database Cowboys brings a wealth of expertise to every engagement.
+![image info](https://databasecowboys.org/assets/images/certification-scroll3.gif)
 
 ## Innovation at the Core
 We thrive on pushing the boundaries of what's possible. Our commitment to innovation ensures that your data solutions are not just current but are poised to meet the challenges of tomorrow.
 
 ## Collaborative Partnership
 We believe in the power of collaboration. Your goals are our goals, and we work hand-in-hand with you to craft solutions that align with your unique needs and aspirations.
-
-## Proven Expertise
-With a team of seasoned data professionals and a track record of successful projects, Database Cowboys brings a wealth of expertise to every engagement.
-![image info](https://databasecowboys.org/assets/images/certification-scroll3.gif)
 
 ## End-to-End Solutions
 From the initial stages of data integration to ongoing support and optimization, we offer comprehensive, end-to-end solutions to ensure the success of your data initiatives.
