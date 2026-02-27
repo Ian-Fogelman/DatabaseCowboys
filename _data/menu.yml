@@ -22,8 +22,8 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "ETL Processes In Apache Airflow"
-        url: /projects/designing-etl-processes-in-airflow/
+      - name: "ETL Processes In Microsoft Fabric"
+        url: /projects/designing-etl-processes-in-fabric/
       - name: "Database Performance"
         url: /projects/database-performance/
       - name: "Cloud Infrastructure With Terraform"
